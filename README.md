@@ -38,20 +38,25 @@ git clone https://github.com/Ayush-Sonavane/SBERT-Talent-Scorer.git
 cd SBERT-Talent-Scorer
 ```
 
-### 2. Install Dependencies
+### 2. Download and Extract the Dataset
+Download the challenge dataset ZIP file from Google Drive and extract its contents directly into the root of the repository:
+* **Dataset Download Link**: [Download Dataset ZIP](https://drive.usercontent.google.com/download?id=1MfD47XvVdRKBGRAyzGOxDCEf2ve96Jjo&export=download&authuser=0)
+* **Extraction Directory**: Ensure the extracted folder `[PUB] India_runs_data_and_ai_challenge` is located at the root of the repository directory.
+
+### 3. Install Dependencies
 Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the Ranking Pipeline
+### 4. Run the Ranking Pipeline
 To run the end-to-end candidate shortlisting:
 ```bash
 python rank.py --candidates "./[PUB] India_runs_data_and_ai_challenge/[PUB] India_runs_data_and_ai_challenge/India_runs_data_and_ai_challenge/candidates.jsonl" --out submission.csv
 ```
 This will parse the job description from the Word document, filter the pool, compute semantic embeddings, score each profile, and write the top 100 shortlist to `submission.csv`.
 
-### 4. Run the Unit Tests
+### 5. Run the Unit Tests
 Execute the test suite to verify implementation correctness:
 ```bash
 python -m pytest tests/ -v
