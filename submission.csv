@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0068351,1,0.9597,"Lead AI Engineer with 6.4 yrs experience; matches on Qdrant; 86% response rate, quick joiner (0d notice). Highly active candidate with solid ML background."
+CAND_0055905,2,0.9526,"Senior Machine Learning Engineer with 8.1 yrs experience; matches on Embeddings; 87% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0030031,3,0.9420,"AI Engineer with 5.7 yrs experience; matches on Milvus; 94% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0081846,4,0.9413,"Lead AI Engineer with 6.7 yrs experience; matches on Qdrant, Embeddings; 73% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0002025,5,0.9399,"Senior AI Engineer with 5.9 yrs experience; matches on FAISS; 80% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0052682,6,0.9280,"NLP Engineer with 6.6 yrs experience; matches on FAISS, Embeddings; 88% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0077337,7,0.9255,Staff Machine Learning Engineer with 7.0 yrs experience; matches on Pinecone; 95% response rate. Highly active candidate with solid ML background.
+CAND_0025640,8,0.9200,"AI Research Engineer with 5.6 yrs experience; matches on FAISS; 87% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0072660,9,0.9119,"Machine Learning Engineer with 7.1 yrs experience; matches on FAISS; 53% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0046525,10,0.9087,Senior Machine Learning Engineer with 6.1 yrs experience; matches on Qdrant; 88% response rate. Highly active candidate with solid ML background.
+CAND_0018499,11,0.8948,"Senior Machine Learning Engineer with 7.2 yrs experience; matches on Weaviate, Embeddings; 61% response rate, quick joiner (15d notice). Highly active candidate with solid ML background."
+CAND_0024620,12,0.8939,AI Engineer with 5.9 yrs experience; 41% response rate. Highly active candidate with solid ML background.
+CAND_0079387,13,0.8937,"AI Engineer with 6.9 yrs experience; 81% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0080766,14,0.8919,"Staff Machine Learning Engineer with 8.8 yrs experience; matches on Milvus; 66% response rate, quick joiner (0d notice). Highly active candidate with solid ML background."
+CAND_0033179,15,0.8855,"AI Research Engineer with 6.9 yrs experience; 84% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0061257,16,0.8806,"Staff Machine Learning Engineer with 8.0 yrs experience; 87% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0081686,17,0.8781,"Search Engineer with 6.0 yrs experience; matches on FAISS, Embeddings; 91% response rate. Highly active candidate with solid ML background."
+CAND_0046064,18,0.8735,"Senior NLP Engineer with 8.9 yrs experience; matches on Pinecone; 78% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0008295,19,0.8704,AI Research Engineer with 6.5 yrs experience; matches on Weaviate; 89% response rate. Highly active candidate with solid ML background.
+CAND_0062247,20,0.8656,"AI Engineer with 7.3 yrs experience; matches on Pinecone; 78% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0011687,21,0.8637,"Senior NLP Engineer with 7.8 yrs experience; matches on FAISS, Embeddings; 89% response rate, quick joiner (15d notice). Highly active candidate with solid ML background."
+CAND_0010685,22,0.8627,"NLP Engineer with 6.7 yrs experience; 83% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0043860,23,0.8596,"Junior ML Engineer with 6.1 yrs experience; matches on Qdrant; 81% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0064888,24,0.8563,"ML Engineer with 5.8 yrs experience; matches on Embeddings; 92% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0027691,25,0.8554,"NLP Engineer with 6.5 yrs experience; matches on Weaviate, Embeddings; 68% response rate, quick joiner (15d notice). Highly active candidate with solid ML background."
+CAND_0071974,26,0.8523,"Senior AI Engineer with 7.8 yrs experience; matches on Weaviate, Embeddings; 76% response rate. Highly active candidate with solid ML background."
+CAND_0098952,27,0.8520,AI Research Engineer with 5.5 yrs experience; 66% response rate. Highly active candidate with solid ML background.
+CAND_0058688,28,0.8488,"AI Engineer with 6.7 yrs experience; matches on Milvus, Embeddings; 74% response rate, quick joiner (15d notice). Highly active candidate with solid ML background."
+CAND_0064326,29,0.8459,Search Engineer with 7.6 yrs experience; matches on Milvus; 94% response rate. Highly active candidate with solid ML background.
+CAND_0078508,30,0.8415,"AI Research Engineer with 5.2 yrs experience; matches on Weaviate, Embeddings; 34% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0076482,31,0.8386,"ML Engineer with 6.6 yrs experience; matches on Pinecone, Embeddings; 86% response rate. Highly active candidate with solid ML background."
+CAND_0053591,32,0.8383,"AI Engineer with 5.3 yrs experience; matches on Milvus, Embeddings; 81% response rate. Highly active candidate with solid ML background."
+CAND_0010541,33,0.8347,AI Research Engineer with 6.2 yrs experience; matches on Pinecone; 59% response rate. Highly active candidate with solid ML background.
+CAND_0006418,34,0.8285,"Machine Learning Engineer with 5.7 yrs experience; matches on Weaviate, Embeddings; 92% response rate. Highly active candidate with solid ML background."
+CAND_0018888,35,0.8278,"AI Research Engineer with 6.5 yrs experience; matches on FAISS; 55% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0087630,36,0.8270,"AI Engineer with 7.2 yrs experience; matches on Embeddings; 45% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0054318,37,0.8231,AI Research Engineer with 3.5 yrs experience; matches on FAISS; 87% response rate. Highly active candidate with solid ML background.
+CAND_0030946,38,0.8217,Junior ML Engineer with 6.7 yrs experience; matches on Embeddings; 38% response rate. Highly active candidate with solid ML background.
+CAND_0068811,39,0.8203,"Applied ML Engineer with 8.0 yrs experience; matches on Qdrant, Embeddings; 42% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0062561,40,0.8136,"ML Engineer with 5.9 yrs experience; matches on Weaviate; 36% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0088025,41,0.8135,Staff Machine Learning Engineer with 8.6 yrs experience; matches on Pinecone; 83% response rate. Highly active candidate with solid ML background.
+CAND_0064256,42,0.8134,"Junior ML Engineer with 6.4 yrs experience; matches on Embeddings; 86% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0093883,43,0.8134,"AI Research Engineer with 5.0 yrs experience; matches on Qdrant, Embeddings; 56% response rate. Highly active candidate with solid ML background."
+CAND_0038368,44,0.8060,"ML Engineer with 5.4 yrs experience; matches on FAISS, Embeddings; 68% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0076163,45,0.8052,NLP Engineer with 6.9 yrs experience; matches on Weaviate; 84% response rate. Highly active candidate with solid ML background.
+CAND_0093193,46,0.8029,Senior Machine Learning Engineer with 7.9 yrs experience; matches on Qdrant; 61% response rate. Highly active candidate with solid ML background.
+CAND_0091254,47,0.8020,AI Research Engineer with 5.2 yrs experience; 53% response rate. Highly active candidate with solid ML background.
+CAND_0032216,48,0.8015,"ML Engineer with 6.1 yrs experience; matches on Qdrant; 35% response rate, quick joiner (30d notice). Highly active candidate with solid ML background."
+CAND_0040178,49,0.7986,ML Engineer with 5.0 yrs experience; matches on Weaviate; 55% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0058146,50,0.7978,AI Research Engineer with 5.1 yrs experience; matches on Qdrant; 79% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0052706,51,0.7941,AI Research Engineer with 5.1 yrs experience; matches on Pinecone; 79% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0083307,52,0.7941,"Search Engineer with 7.8 yrs experience; matches on Pinecone, Embeddings; 70% response rate. Strong candidate for dense retrieval & ranking pipelines."
+CAND_0008239,53,0.7903,"AI Engineer with 4.0 yrs experience; matches on Milvus; 73% response rate, quick joiner (15d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0005311,54,0.7900,"AI Research Engineer with 5.7 yrs experience; matches on Qdrant; 28% response rate, quick joiner (30d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0005260,55,0.7867,Senior NLP Engineer with 5.2 yrs experience; matches on Embeddings; 86% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0004402,56,0.7864,AI Research Engineer with 6.0 yrs experience; matches on Qdrant; 83% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0003791,57,0.7849,ML Engineer with 6.6 yrs experience; matches on Weaviate; 66% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0051466,58,0.7801,AI Research Engineer with 5.3 yrs experience; matches on Milvus; 65% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0097176,59,0.7800,"ML Engineer with 5.9 yrs experience; matches on FAISS; 76% response rate, quick joiner (30d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0085851,60,0.7778,"ML Engineer with 7.0 yrs experience; matches on Qdrant, Embeddings; 37% response rate. Strong candidate for dense retrieval & ranking pipelines."
+CAND_0011263,61,0.7775,ML Engineer with 5.1 yrs experience; matches on Pinecone; 42% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0037566,62,0.7770,"Machine Learning Engineer with 6.9 yrs experience; matches on Pinecone; 50% response rate, quick joiner (15d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0098846,63,0.7757,AI Engineer with 7.6 yrs experience; matches on Qdrant; 62% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0043637,64,0.7753,Junior ML Engineer with 5.5 yrs experience; matches on Milvus; 92% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0078002,65,0.7749,Machine Learning Engineer with 6.3 yrs experience; matches on Weaviate; 86% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0013393,66,0.7745,"ML Engineer with 5.3 yrs experience; matches on Pinecone, Embeddings; 33% response rate. Strong candidate for dense retrieval & ranking pipelines."
+CAND_0029971,67,0.7733,"Junior ML Engineer with 5.4 yrs experience; matches on Pinecone, Embeddings; 61% response rate. Strong candidate for dense retrieval & ranking pipelines."
+CAND_0040955,68,0.7729,"Junior ML Engineer with 6.6 yrs experience; matches on Embeddings; 51% response rate, quick joiner (30d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0075491,69,0.7719,AI Research Engineer with 6.0 yrs experience; matches on Embeddings; 40% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0018701,70,0.7708,Junior ML Engineer with 6.0 yrs experience; 71% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0088378,71,0.7708,AI Research Engineer with 6.0 yrs experience; 57% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0036121,72,0.7694,ML Engineer with 5.2 yrs experience; matches on Embeddings; 49% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0065195,73,0.7694,Search Engineer with 5.1 yrs experience; matches on Qdrant; 80% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0046621,74,0.7693,AI Research Engineer with 6.6 yrs experience; matches on Pinecone; 33% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0093547,75,0.7693,Senior Machine Learning Engineer with 2.9 yrs experience; matches on Milvus; 75% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0049771,76,0.7686,AI Research Engineer with 5.0 yrs experience; matches on Pinecone; 81% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0031306,77,0.7684,Junior ML Engineer with 3.0 yrs experience; matches on Milvus; 84% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0015528,78,0.7672,"Applied ML Engineer with 7.4 yrs experience; matches on Weaviate; 53% response rate, quick joiner (30d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0021491,79,0.7667,AI Research Engineer with 6.1 yrs experience; 61% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0045250,80,0.7661,"Applied ML Engineer with 6.6 yrs experience; matches on Milvus, Embeddings; 74% response rate, quick joiner (15d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0044222,81,0.7657,AI Engineer with 7.7 yrs experience; matches on Qdrant; 60% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0018094,82,0.7656,ML Engineer with 5.2 yrs experience; matches on Pinecone; 69% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0032887,83,0.7648,ML Engineer with 6.1 yrs experience; matches on Qdrant; 81% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0008425,84,0.7638,Senior NLP Engineer with 7.8 yrs experience; matches on Qdrant; 66% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0049538,85,0.7637,"Applied ML Engineer with 5.8 yrs experience; matches on Milvus, Embeddings; 72% response rate, quick joiner (30d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0083879,86,0.7622,"Machine Learning Engineer with 7.1 yrs experience; matches on Milvus; 47% response rate, quick joiner (30d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0030348,87,0.7613,Machine Learning Engineer with 4.5 yrs experience; matches on Embeddings; 54% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0096655,88,0.7609,Junior ML Engineer with 5.9 yrs experience; 80% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0099806,89,0.7605,"AI Engineer with 4.6 yrs experience; matches on FAISS, Embeddings; 76% response rate, quick joiner (30d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0070398,90,0.7591,"Machine Learning Engineer with 7.2 yrs experience; matches on FAISS, Embeddings; 60% response rate. Strong candidate for dense retrieval & ranking pipelines."
+CAND_0033445,91,0.7586,"ML Engineer with 6.8 yrs experience; 94% response rate, quick joiner (30d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0056058,92,0.7582,Junior ML Engineer with 3.4 yrs experience; matches on Qdrant; 81% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0071939,93,0.7577,"Data Scientist with 6.4 yrs experience; matches on Qdrant, Embeddings; 67% response rate, quick joiner (30d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0040887,94,0.7570,"Machine Learning Engineer with 4.7 yrs experience; matches on FAISS; 84% response rate, quick joiner (15d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0005538,95,0.7565,Senior AI Engineer with 5.9 yrs experience; 81% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0011489,96,0.7564,ML Engineer with 5.8 yrs experience; matches on Embeddings; 47% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0020845,97,0.7532,AI Research Engineer with 7.0 yrs experience; matches on Pinecone; 35% response rate. Strong candidate for dense retrieval & ranking pipelines.
+CAND_0050454,98,0.7520,"AI Engineer with 6.8 yrs experience; matches on FAISS; 77% response rate, quick joiner (30d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0009024,99,0.7514,"Search Engineer with 5.2 yrs experience; matches on Qdrant; 46% response rate, quick joiner (30d notice). Strong candidate for dense retrieval & ranking pipelines."
+CAND_0051936,100,0.7513,"AI Research Engineer with 3.9 yrs experience; matches on Embeddings; 81% response rate, quick joiner (30d notice). Strong candidate for dense retrieval & ranking pipelines."

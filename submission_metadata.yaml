@@ -1,0 +1,47 @@
+team_name: "Antigravity-Solvers"
+
+primary_contact:
+  name: "Ayush Sonavane"
+  email: "primary@example.com"
+  phone: "+91-9999999999"
+
+team_members:
+  - name: "Ayush Sonavane"
+    email: "primary@example.com"
+    role: "ML Engineer"
+
+github_repo: "https://github.com/Ayush-Sonavane/SBERT-Talent-Scorer"
+
+sandbox_link: "https://huggingface.co/spaces/ayush-sonavane/redrob-ranker"
+
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
+
+compute:
+  platform: "Local Windows PC"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.11.4"
+  os: "Windows 11"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: false
+  pre_computation_time_minutes: 0
+
+ai_tools_used:
+  - "Claude"
+  - "Gemini"
+
+ai_usage_summary: |
+  Used AI assistance for design, structural planning, and creating test-driven modules. No candidate data was sent to external LLMs.
+
+methodology_summary: |
+  A two-stage hybrid ranker designed for high-throughput screening on CPU. 
+  Stage 1 filters the 100K candidates down to ~2,000 matches using fast title alignment, experience range gating, services-only exclusions, and strict consistency honeypot checks. 
+  Stage 2 loads a local sentence-transformer model ('all-MiniLM-L6-v2') offline to compute dense similarity scores, which are combined with behavioral platform signals (responsiveness, availability) as multiplicative modifiers.
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true

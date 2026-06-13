@@ -1,0 +1,20 @@
+# Ignore data files
+\[PUB\] India_runs_data_and_ai_challenge/
+__MACOSX/
+
+# Ignore local models (can be downloaded using download_model.py)
+models/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Ignore temp files
+temp_test.jsonl
+*.log
+
+# Ignore planning and findings tracking files
+findings.md
+progress.md
+task_plan.md
